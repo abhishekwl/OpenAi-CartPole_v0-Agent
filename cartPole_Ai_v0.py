@@ -1,3 +1,8 @@
+''''''
+@codeauthor = Abhishek WL
+e-mail: theabhishekwl@gmail.com
+
+''''''
 import gym
 import random
 import numpy as np
